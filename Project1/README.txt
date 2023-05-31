@@ -18,3 +18,6 @@ the Bayes' Classification. The parameter reducedDim can be varied to change the 
 Subtask 2: Apply MDA to the input data and then classify the test data using the k-Nearest Neighbor 
 approach and the Bayes' Classification. To vary the number of dimensions reduced by MDA, the variable m within MDA_function_2 
 must be changed.
+
+Note: The POSE and FACE data must be unzipped from the Data.zip file and placed in the MATLAB working directory before running
+either function.
